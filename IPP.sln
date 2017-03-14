@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPP", "IPP\IPP.csproj", "{971AF2EF-2D7B-4F1B-BA42-7E4D4B9925D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{F44170E1-8FE7-457A-BAF4-2D130F44161F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNIRAST", "UNIRAST\UNIRAST.csproj", "{91584F5B-13EC-484D-840E-120776A51BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971AF2EF-2D7B-4F1B-BA42-7E4D4B9925D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971AF2EF-2D7B-4F1B-BA42-7E4D4B9925D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971AF2EF-2D7B-4F1B-BA42-7E4D4B9925D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971AF2EF-2D7B-4F1B-BA42-7E4D4B9925D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44170E1-8FE7-457A-BAF4-2D130F44161F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44170E1-8FE7-457A-BAF4-2D130F44161F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44170E1-8FE7-457A-BAF4-2D130F44161F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44170E1-8FE7-457A-BAF4-2D130F44161F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91584F5B-13EC-484D-840E-120776A51BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91584F5B-13EC-484D-840E-120776A51BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91584F5B-13EC-484D-840E-120776A51BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91584F5B-13EC-484D-840E-120776A51BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
